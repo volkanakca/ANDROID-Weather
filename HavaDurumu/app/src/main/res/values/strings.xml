@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">HavaDurumu</string>
+    <string-array name="sehirler">
+        <item>Şuanki Şehir</item>
+        <item>Ankara</item>
+        <item>İstanbul</item>
+        <item>Bursa</item>
+        <item>Adana</item>
+        <item>İzmir</item>
+        <item>Konya</item>
+        <item>Eskişehir</item>
+        <item>Gaziantep</item>
+        <item>Erzurum</item>
+        <item>Antalya</item>
+        <item>Sivas</item>
+        <item>Tokyo</item>
+        <item>London</item>
+    </string-array>
+</resources>
